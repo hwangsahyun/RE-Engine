@@ -345,6 +345,8 @@ P &\equiv_{\theta,k}^{\mathcal C}\mathop{\mathrm{basic}}\nolimits(P).
 
 **근거.** E-010의 이름 호출에 E-018의 반환 리스트를 결합한 것이다.
 
+---
+
 ### F-001 역참조 (\ddd 해석)
 
 ```math
